@@ -5,6 +5,7 @@
 
 | 名称 | 作者 | 简述 |
 | --- | --- | --- |
+| [kirami-plugin-fishing](https://github.com/FrostN0v0/kirami-plugin-fishing) | [FrostN0v0](https://github.com/FrostN0v0) | 群内钓鱼小游戏 |
 | [kirami-plugin-qweather](https://github.com/FrostN0v0/kirami-plugin-qweather) | [FrostN0v0](https://github.com/FrostN0v0) | 基于和风天气的天气查询、订阅与推送 |
 | [kirami-plugin-horserace](https://github.com/FrostN0v0/kirami-plugin-horserace) | [FrostN0v0](https://github.com/FrostN0v0) | 群内赛马小游戏 |
 | [kirami-plugin-boardgame](https://github.com/FrostN0v0/kirami-plugin-boardgame) | [FrostN0v0](https://github.com/FrostN0v0) | 五子棋、围棋、黑白棋 |
